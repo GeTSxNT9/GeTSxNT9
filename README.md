@@ -1,16 +1,15 @@
-## Hi there 👋
+# PROFILE
+> IT ENTHUSIAST AND PERSONAL TOOL DEVELOPER
 
-<!--
-**GeTSxNT9/GeTSxNT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ABOUT ME
+A self-taught IT enthusiast focused on creating practical solutions. With no formal background in programming, I use GitHub to develop versatile, AI-assisted tools designed exclusively to optimize my daily routines and general needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PROFILE FOCUS
+* **Development:** Functional applications built for any specific task or requirement that arises in my daily life.
+* **Methodology:** Implementation of software solutions based on AI-assisted logic and architecture.
+* **Objective:** Problem-solving and general task automation through custom-built private tools.
+
+---
+*This profile serves as a central hub for my personal projects and private-use utilities.*
