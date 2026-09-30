@@ -1,5 +1,5 @@
 # PROFILE
-> **IT ENTHUSIAST & PERSONAL TOOL DEVELOPER**
+> **PERSONAL TOOL DEVELOPER & IT ENTHUSIAST**
 
 ---
 
@@ -10,33 +10,35 @@
 ---
 
 ### ABOUT ME
-A self-taught IT enthusiast dedicated to designing and deploying custom, high-utility software solutions. Operating without traditional programming overhead, I leverage AI-assisted system architecture, structured logic, and rapid workflows to build robust, practical tools tailored to real-world demands.
+A self-taught IT enthusiast focused on creating practical solutions. With no formal background in programming, I leverage AI-assisted logic, structured architecture, and clean prompt engineering to build versatile, custom tools designed exclusively to optimize daily routines and general needs.
 
 ---
 
 ### PROFILE FOCUS
-* **Targeted Development:** Building functional, standalone applications designed to streamline specific workflows and daily routines.
-* **Architecture & Methodology:** Implementing lightweight, maintainable software systems through structured AI prompting and local-first data persistence.
-* **Primary Objective:** Task automation, data synchronization, and process optimization through purpose-built private utilities.
+* **Development:** Functional, standalone web applications built for specific tasks or requirements that arise in daily workflows.
+* **Methodology:** Implementation of software solutions based on AI-assisted logic, rapid architectural prototyping, and local-first data persistence.
+* **Objective:** Problem-solving and task automation through custom-built private tools and Single-Page Applications (SPAs).
 
 ---
 
-### FEATURED ARCHITECTURE
-* **GastroOS** — *Gastronomic Logistics & Planning System*
-  * **Design:** Apple-inspired, responsive Single-Page Application (SPA) packaged in a single-file architecture.
-  * **Integration:** Direct synchronization with GitHub REST API for persistent remote data management (`recipes.json`).
-  * **Logic Engine:** Custom algorithmic engine for menu planning, nutritional balance, stock utilization, and forecast calculations.
+### HIGHLIGHTED PROJECT
+
+#### 📖 GastroOS
+> **Web-based Operating System for Menu Planning, Stock Control & Gastronomic Logistics.**
+* **Architecture:** Single-File PWA built with HTML5, Tailwind CSS (Apple Dark Aesthetic), and Vanilla JavaScript.
+* **Synchronization:** Remote data persistence via the **GitHub REST API** (`recipes.json`).
+* **Engine:** Custom algorithmic logic for nutritional balancing, stock utilization, and forecast adjustments (+30% safety margin).
 
 ---
 
-### TECHNICAL METHODOLOGY
+### TECH & METHODOLOGY
 
-| Domain | Focus & Implementation |
+| Domain | Focus & Tools |
 | :--- | :--- |
-| **Frontend & UX** | HTML5, CSS3 (Minimalist Apple Aesthetic), Vanilla JavaScript (ES6+) |
-| **Data & Persistence** | GitHub REST API integration, `localStorage` caching, structured JSON schemas |
-| **Development Paradigm** | Single-File PWA Architecture, AI-Assisted Engineering, Local-First Data |
+| **Development** | HTML5, CSS3, JavaScript (ES6+), Single-Page Applications (SPA), PWAs |
+| **Data & Sync** | GitHub REST API integration, `localStorage` caching, JSON schemas |
+| **Workflow** | AI-Driven Prompt Engineering, Architectural Planning, Iterative Prototyping |
 
 ---
 
-*This profile serves as a central hub for personal software projects, automated workflows, and custom utilities.*
+*This profile serves as a central hub for personal projects, automated routines, and private-use utilities.*
