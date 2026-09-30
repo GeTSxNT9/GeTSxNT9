@@ -24,7 +24,7 @@ A self-taught IT enthusiast focused on creating practical solutions. With no for
 
 ### HIGHLIGHTED PROJECT
 
-#### 📖 GastroOS
+#### 📖 [GastroOS](#)
 
 > **Web-based Operating System for Menu Planning, Stock Control & Gastronomic Logistics.**
 * **Architecture:** Single-File PWA built with HTML5, Tailwind CSS (Apple Dark Aesthetic), and Vanilla JavaScript.
