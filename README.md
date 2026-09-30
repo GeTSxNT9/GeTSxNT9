@@ -15,6 +15,7 @@ A self-taught IT enthusiast focused on creating practical solutions. With no for
 ---
 
 ### PROFILE FOCUS
+
 * **Development:** Functional, standalone web applications built for specific tasks or requirements that arise in daily workflows.
 * **Methodology:** Implementation of software solutions based on AI-assisted logic, rapid architectural prototyping, and local-first data persistence.
 * **Objective:** Problem-solving and task automation through custom-built private tools and Single-Page Applications (SPAs).
@@ -24,6 +25,7 @@ A self-taught IT enthusiast focused on creating practical solutions. With no for
 ### HIGHLIGHTED PROJECT
 
 #### 📖 GastroOS
+
 > **Web-based Operating System for Menu Planning, Stock Control & Gastronomic Logistics.**
 * **Architecture:** Single-File PWA built with HTML5, Tailwind CSS (Apple Dark Aesthetic), and Vanilla JavaScript.
 * **Synchronization:** Remote data persistence via the **GitHub REST API** (`recipes.json`).
