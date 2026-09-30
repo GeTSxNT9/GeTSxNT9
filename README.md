@@ -1,6 +1,5 @@
-# Hi there, I'm a Personal Tool Developer 👋
-
-> *Crafting functional, AI-assisted software solutions to optimize daily workflows and complex routines.*
+# PROFILE
+> **IT ENTHUSIAST & PERSONAL TOOL DEVELOPER**
 
 ---
 
@@ -10,35 +9,34 @@
 
 ---
 
-### 💡 About Me
-
-I am a self-taught IT enthusiast passionate about building custom, high-utility tools. Without a formal background in traditional software engineering, I leverage **AI-assisted logic, rapid prompting, and clean architecture** to turn everyday challenges into robust, functional web applications.
-
-- 🛠️ **What I build:** Tailor-made tools, PWAs, and local-first management systems.
-- 🎯 **Primary goal:** Workflow optimization, task automation, and practical problem-solving.
-- ⚙️ **Core philosophy:** Minimalist design, single-file efficiency, and zero unnecessary bloat.
+### ABOUT ME
+A self-taught IT enthusiast dedicated to designing and deploying custom, high-utility software solutions. Operating without traditional programming overhead, I leverage AI-assisted system architecture, structured logic, and rapid workflows to build robust, practical tools tailored to real-world demands.
 
 ---
 
-### 🚀 Highlighted Project
-
-#### 📖 [GastroOS](#)
-> **Web-based Operating System for Menu Planning, Stock Control & Gastronomic Logistics.**
-- **Tech Stack:** HTML5, CSS3 (Tailwind/Apple Dark Aesthetic), Vanilla JavaScript (SPA Single-File).
-- **Key Features:** Algorithmic menu balance, stock integration, 30% margin forecasting, and remote synchronization via **GitHub REST API**.
+### PROFILE FOCUS
+* **Targeted Development:** Building functional, standalone applications designed to streamline specific workflows and daily routines.
+* **Architecture & Methodology:** Implementing lightweight, maintainable software systems through structured AI prompting and local-first data persistence.
+* **Primary Objective:** Task automation, data synchronization, and process optimization through purpose-built private utilities.
 
 ---
 
-### 🧰 Tech & Methodology
+### FEATURED ARCHITECTURE
+* **GastroOS** — *Gastronomic Logistics & Planning System*
+  * **Design:** Apple-inspired, responsive Single-Page Application (SPA) packaged in a single-file architecture.
+  * **Integration:** Direct synchronization with GitHub REST API for persistent remote data management (`recipes.json`).
+  * **Logic Engine:** Custom algorithmic engine for menu planning, nutritional balance, stock utilization, and forecast calculations.
 
-| Area | Focus & Tools |
+---
+
+### TECHNICAL METHODOLOGY
+
+| Domain | Focus & Implementation |
 | :--- | :--- |
-| **Development** | HTML5, CSS3, JavaScript (ES6+), Single-Page Applications (SPA), PWAs |
-| **Data & Sync** | GitHub REST API, `localStorage` Caching, JSON Data Architecture |
-| **Workflow** | AI-Driven Prompt Engineering, Architectural Planning, Iterative Design |
+| **Frontend & UX** | HTML5, CSS3 (Minimalist Apple Aesthetic), Vanilla JavaScript (ES6+) |
+| **Data & Persistence** | GitHub REST API integration, `localStorage` caching, structured JSON schemas |
+| **Development Paradigm** | Single-File PWA Architecture, AI-Assisted Engineering, Local-First Data |
 
 ---
 
-<p align="center">
-  <sub><i>Central hub for personal software projects, automated routines, and private utilities.</i></sub>
-</p>
+*This profile serves as a central hub for personal software projects, automated workflows, and custom utilities.*
